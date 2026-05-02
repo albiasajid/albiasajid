@@ -13,15 +13,28 @@ I enjoy solving problems using programming and applying logic to real-world chal
 
 ---
 
-## 🛠️ Skills
+## 🧠 Tech Stack
 
-- 🐍 Python (Programming & Data Handling)
-- 💻 C / C++
-- 🗄️ SQL (Learning)
-- 📊 Data Analysis & Visualization (Basic–Intermediate)
-- 📈 Power BI (Learning)
-- 🔧 Git & GitHub
-- 🧠 Problem Solving & DSA (In Progress)
+### 💻 Programming Languages
+- Python 🐍  
+- C / C++  
+
+### 📊 Data Analytics
+- Pandas  
+- NumPy  
+- Matplotlib / Plotly  
+- Data Cleaning & Preprocessing  
+
+### 🌐 Web Development
+- HTML  
+- CSS  
+- JavaScript (Learning Phase)  
+
+### ⚙ Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebook  
+- VS Code  
+- Power BI (Learning / Projects)
 
 ---
 
