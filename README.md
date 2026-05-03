@@ -18,7 +18,6 @@ I enjoy solving problems using programming and applying logic to real-world chal
 ### 💻 Programming Languages
 - Python 🐍  
 - C / C++
-- Java
 
 ### 📊 Data Analytics
 - Pandas  
