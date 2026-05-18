@@ -85,19 +85,7 @@ Jupyter Notebook • Power BI (Learning)
 - 🌐 Full-stack development (end-to-end applications)  
 - 📊 Improving data analytics + ML skills  
 - 🚀 Preparing for internships (2026–2027)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=albiasajid&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albiasajid&theme=tokyonight" />
-</p>
-
+  
 ---
 
 ## 🧭 Career Goal
