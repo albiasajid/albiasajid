@@ -1,74 +1,113 @@
-# 👋 Albia Sajid
+# <p align="center">Albia Sajid</p>
 
-🎓 Computer Science & Engineering Student at KIIT University  
-💻 Aspiring Software Engineer | 📊 Data Analyst | 🚀 Problem Solver  
+<p align="center">
+🎓 Computer Science & Engineering @ KIIT University  
+💻 Software Engineer in Progress | 📊 Data & Systems Thinker | 🚀 Problem Solver  
+</p>
+
+<p align="center">
+“Building practical systems. Learning deeply. Improving every day.”
+</p>
 
 ---
 
-## 💡 About Me
+## ⚡ About Me
 
-I am a Computer Science student passionate about building efficient software systems and exploring data-driven solutions.
+I’m a Computer Science student focused on building **real-world usable systems**, not just academic projects.
 
-I enjoy solving problems using programming and applying logic to real-world challenges. My interests lie in both **software development and data analysis**, and I am continuously learning to improve in both areas.
+I enjoy:
+- Turning logic into working software systems  
+- Understanding how backend and data systems actually work  
+- Solving problems using structured thinking and code  
+- Continuously improving through hands-on projects  
+
+> I believe strong developers are built through projects, not theory alone.
 
 ---
 
 ## 🧠 Tech Stack
 
-### 💻 Programming Languages
-- Python 🐍  
-- C / C++
+### 💻 Programming
+Java • Python • C • C++
 
-### 📊 Data Analytics
-- Pandas  
-- NumPy  
-- Matplotlib / Plotly  
-- Data Cleaning & Preprocessing  
+### 🌐 Web & Backend
+HTML • CSS • JavaScript (Learning)  
+Spring Boot (Learning) • REST APIs (Basic)
 
-### 🌐 Web Development
-- HTML  
-- CSS  
-- JavaScript (Learning Phase)  
+### 📊 Data & Analytics
+Pandas • NumPy  
+Matplotlib • Plotly  
+Data Cleaning • Preprocessing
 
 ### ⚙ Tools & Platforms
-- Git & GitHub  
-- Jupyter Notebook  
-- VS Code  
-- Power BI (Learning / Projects)
+Git & GitHub • VS Code • IntelliJ IDEA  
+Jupyter Notebook • Power BI (Learning)
 
 ---
 
-## 📂 Projects
+## 🚀 Featured Projects
 
 ### 📊 Retail Sales Analytics Dashboard  
 🔗 https://github.com/albiasajid/Retail-Sales-Analytics-Dashboard  
 
-- Cleaned and analyzed real-world retail data  
+- Cleaned and structured real-world retail dataset  
 - Built KPIs for business insights  
-- Visualized sales trends and performance  
+- Created visual dashboards for trend analysis  
+- Focused on decision-making through data  
 
 ---
 
 ### 🧠 Parkinson’s Disease Detection System  
 🔗 https://github.com/albiasajid/Parkinson-s_Disease_Detection_System  
 
-- Built a machine learning classification model  
-- Worked on feature-based prediction system  
-- Applied Python for data processing and model training  
+- Built machine learning classification model  
+- Performed feature extraction & preprocessing  
+- Applied Python-based ML pipeline  
+- Focused on healthcare prediction system  
 
 ---
 
-## 🎯 Goals
+### 📚 Student Task & Attendance System  
+🔗 https://github.com/albiasajid/StudentTaskAttendanceSystem  
 
-- Become a strong **Software Engineer / Data Analyst**
-- Build real-world, industry-level projects
-- Improve problem-solving & DSA skills
-- Learn full-stack development basics
-- Secure internships in 2026–2027
+- Full-stack Java-based web system  
+- Login authentication system  
+- Task management + attendance tracking module  
+- Dashboard-based structured UI flow  
+- Backend + frontend integration  
 
 ---
 
-## 📫 Connect With Me
+## 🎯 Current Focus
+
+- 🔥 Strengthening Data Structures & Algorithms  
+- ⚙ Building advanced backend systems (Java + Spring Boot)  
+- 🌐 Full-stack development (end-to-end applications)  
+- 📊 Improving data analytics + ML skills  
+- 🚀 Preparing for internships (2026–2027)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albiasajid&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albiasajid&theme=tokyonight" />
+</p>
+
+---
+
+## 🧭 Career Goal
+
+To become a **Software Engineer / Data Analyst / Backend Developer**  
+who builds scalable, efficient, and real-world impactful systems.
+
+---
+
+## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/albia-sajid-57186422a  
 - 💻 GitHub: https://github.com/albiasajid  
@@ -76,4 +115,8 @@ I enjoy solving problems using programming and applying logic to real-world chal
 
 ---
 
-⭐ *Learning consistently. Building step by step. Improving every day.*
+## ⚡ Final Note
+
+> “Consistency builds skill. Projects build confidence. Execution builds career.”
+
+🚀 Keep building. Keep improving. Keep shipping.
